@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class loops_01 {
     public static void main(String[] args) {
         // for loops
@@ -19,7 +20,11 @@ public class loops_01 {
 
         //do while loop
 
-        int i = 0;
+//        int i = 0;
+
+
+
+
 
     }
 }
