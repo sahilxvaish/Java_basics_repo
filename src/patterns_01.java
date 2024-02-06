@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class patterns_01 {
     public static void main(String[] args) {
-        int n = 4;
+        int n = 5;
 //        int m = 5;
         // solid rectangle
 
@@ -52,8 +52,40 @@ public class patterns_01 {
 //                System.out.print("*");
 //            }
 //            System.out.println();
+//            }
+
+        //****
+        //***
+        //**
+        //*
+
+        //pattern
+
+
+//        for (int i = n; i>=1; i--) {
+//            // inner loops
+//
+//            for (int j = 1; j <= i; j++) {
+//                System.out.print("*");
+//            }
+//            System.out.println();
 //        }
 
+        // pattern 5
+
+//        for (int i =1; i<=n; i++){
+//            //inner loop
+//
+//            for (int j=1; j<=1; j++){
+//                System.out.print(j+" ");
+//            }
+//
+//            System.out.println();
+//        }
+
+
+        for
+        ()
 
     }
 }
