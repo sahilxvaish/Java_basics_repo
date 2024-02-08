@@ -84,8 +84,8 @@ public class patterns_01 {
 //        }
 
 
-        for
-        ()
+//        for
+//        ()
 
     }
 }
