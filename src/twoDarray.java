@@ -1,10 +1,10 @@
 import java.util.*;
 public class twoDarray {
     public static void main(String[] args) {
-       //2D arrays
-
-        // type[][] array name = new type[rows][columns];
-        // int[][] numbers = new int[3][5]
+//       2D arrays
+//
+//         type[][] array name = new type[rows][columns];
+//         int[][] numbers = new int[3][5]
 
         Scanner sc = new Scanner(System.in);
         int rows = sc.nextInt();
@@ -27,3 +27,5 @@ public class twoDarray {
         }
     }
 }
+
+//12
